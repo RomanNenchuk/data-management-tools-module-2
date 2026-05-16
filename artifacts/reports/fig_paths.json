@@ -1,0 +1,6 @@
+{
+  "line_trend": "artifacts/figures/v8_uah_trend_line.png",
+  "hist_returns": "artifacts/figures/v8_uah_returns_hist.png",
+  "rolling_std": "artifacts/figures/v8_uah_rolling_std.png",
+  "scatter_corr": "artifacts/figures/v8_uah_scatter.png"
+}
